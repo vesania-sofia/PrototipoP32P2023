@@ -1,0 +1,29 @@
+commit 2f6880b5021099ee607fd6d2faf2d5c2d56db509
+Author: sofia Tobar <kgomezt2@miumg.edu.gt>
+Date:   Mon Apr 24 14:15:20 2023 -0600
+
+    matenimiento tipopersona agregado
+
+commit 302b687dfb4156dfe10089dbf1212839a8d93dc7
+Author: sofia Tobar <kgomezt2@miumg.edu.gt>
+Date:   Mon Apr 24 13:40:18 2023 -0600
+
+    corrigedio la clase y dao tipo persona, sin errores
+
+commit 29cec6c6d9ca730e60c60cfa11579883265c60ce
+Author: sofia Tobar <kgomezt2@miumg.edu.gt>
+Date:   Mon Apr 24 13:13:54 2023 -0600
+
+    agregando clase y dao tipopersona
+
+commit 113804b6f7aaf9c62d1d70bb2b6c61c09f6b42df
+Author: sofia Tobar <kgomezt2@miumg.edu.gt>
+Date:   Mon Apr 24 12:40:27 2023 -0600
+
+    añadiendo la base
+
+commit c2bb4447031d33ce8bdc25c866681eaff63362ee
+Author: Karla-Tobar <97969064+vesania-sofia@users.noreply.github.com>
+Date:   Mon Apr 24 12:04:50 2023 -0600
+
+    Initial commit

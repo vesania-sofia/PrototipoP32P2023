@@ -5,7 +5,7 @@
  */
 package Seguridad.Controlador;
 import java.util.List;
-import Seguridad.Modelo.daoUsuario;
+import Seguridad.Modelo.daoTipoPersona;
 /**
  *
  * @author visitante
@@ -83,7 +83,7 @@ public class clsTipoPersona {
     public int setBorrarTipoPersona(clsTipoPersona TipPersona)
     {
         daoTipoPersona daoTipPersona = new daoTipoPersona();
-        return daoTipPersona.borrar(TipPersonaTipPersona);
+        return daoTipPersona.borrarTipPersona(TipPersona);
     }          
     public int setIngresarTipoPersona(clsTipoPersona TipPersona)
     {
